@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DT POS</string>
+    <string name="title_activity_main">DT POS</string>
+    <string name="package_name">com.digitaltarget.dtpos</string>
+    <string name="custom_url_scheme">com.digitaltarget.dtpos</string>
+</resources>

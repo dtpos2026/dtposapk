@@ -1,0 +1,11 @@
+{
+	"appId": "com.digitaltarget.dtpos",
+	"appName": "DT POS",
+	"webDir": "dist/client",
+	"server": {
+		"androidScheme": "https"
+	},
+	"android": {
+		"allowMixedContent": true
+	}
+}
